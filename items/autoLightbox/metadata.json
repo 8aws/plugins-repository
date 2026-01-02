@@ -15,8 +15,10 @@
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Añade automáticamente un Lightbox a todas las imágenes en areas de contenido, no necesitas plugins de galería.",
 	"features_es": {
+		"0": "Simplemente actívalo y disfruta de tu Lightbox en las paginas de contenido!",
+		"1": "Sin ajustes, sin configuracion, sin problemas 😀 (Si no usas ningun plugin de gallery 😁)."
 	},
 	"description_ru": "Автоматически добавляет лайтбокс ко всем изображениям в области с контентом, плагины галереи для этого не требуются.",
 	"features_ru": {
