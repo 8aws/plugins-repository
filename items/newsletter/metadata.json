@@ -18,8 +18,13 @@
 	"description_de": "",
 	"features_de": {
 	},
-	"description_es": "",
+	"description_es": "Este plugin crea sencillos boletines de noticias para tus páginas.",
 	"features_es": {
+		"0": "Usa SMTP PHPMailer.",
+		"1": "Añade invitación al boletín en tu web.",
+		"2": "Personaliza el mensaje de invitación y el texto del botón.",
+		"3": "Envía el boletín desde el listado en el panel de administración.",
+		"4": "Soporta SMTP y MailTo."
 	},
 	"description_ru": "Позволяет легко создать форму с предложеним подписаться на email-рассылку для посетителей сайта.",
 	"features_ru": {
