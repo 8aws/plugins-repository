@@ -23,8 +23,13 @@
 		"3": "Zugriff über Dateiliste und löschfunktion über Oberfläche.",
 		"4": "Support für viele Endungen."
 	},
-	"description_es": "",
+	"description_es": "Crea facilmente enlaces de descargas de archivos mediante shortcodes",
 	"features_es": {
+		"0": "Gestión de subida de archivos fácil de usar.",
+		"1": "Ajustes del enlace (destino,título,clase).",
+		"2": "Shortcode y generador de url pura.",
+    	"3": "Acceder a opciones de listar archivos y borrar dentro del backend.",
+    	"4": "Soporta muchas extensiones de archivo populares."
 	},
 	"description_ru": "Лёгкое создание ссылки для загрузки файла на основе шорткода.",
 	"features_ru": {
